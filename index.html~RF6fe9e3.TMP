@@ -1,0 +1,270 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+	<link href="css/main.css" rel="stylesheet">
+</head>
+	<body>
+<div class="nd">
+	<div class="nd1">
+		<div class="nd3head">
+		<div class="nd2">
+			<div class="text2">
+			<a href="#" style="color: #FFD600" align="center">S.W.A.T</a>
+		</div>
+		</div>
+		<div class="nd3">
+			<nav>
+				<ul>
+				<li><a href="#"> Home </a></li>
+				<li><a href="#"> About </a>
+					<ul>
+						<li><a href="#"> Donate </a></li>
+						<li><a href="#"> Secret </a></li>
+						<li><a href="#"> Hire </a></li>
+						<li><a href="#"> Medal </a></li>
+						<li><a href="#"> Point </a></li>
+					</ul>
+				</li>	
+				<li><a href="#"> Resume </a>
+					<ul>
+						<li><a href="#"> FPI </a></li>
+						<li><a href="#"> CIA </a></li>
+						<li><a href="#"> OMOH </a></li>
+						<li><a href="#"> SAS </a></li>
+						<li><a href="#"> CIA </a></li>
+					</ul>
+				</li>
+				<li><a href="#"> Services </a>
+					<ul>
+						<li><a href="#"> Kill </a></li>
+						<li><a href="#"> Safe </a></li>
+						<li><a href="#"> Tris </a></li>
+						<li><a href="#"> Tranfor </a></li>
+						<li><a href="#"> Craft </a></li>
+					</ul>
+				</li>
+				<li><a href="#"> Skills </a>
+					<ul>
+						<li><a href="#"> Gun </a></li>
+						<li><a href="#"> Knife </a></li>
+						<li><a href="#"> SOS </a></li>
+					</ul>
+				</li>
+				<li><a href="#"> Project </a>
+					<ul>
+						<li><a href="#"> Money </a></li>
+						<li><a href="#"> People </a></li>
+						<li><a href="#"> Country </a></li>
+					</ul>	
+				</li>
+				<li><a href="#"> My Blog </a>
+					<ul>
+						<li><a href="#"> Rank </a></li>
+						<li><a href="#"> Level </a></li>
+					</ul>
+				</li>
+				<li><a href="#"> Contact </a>
+					<ul>
+						<li><a href="#"> Facebook </a></li>
+						<li><a href="#"> Twister </a></li>
+						<li><a href="#"> Instagram </a></li>
+					</ul>
+				</li>
+				</ul>
+			</nav>	
+		</div>
+		</div>
+		<div class="nd31">
+		<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="images/hinh1.png" style="width:100%">
+  <div class="text">Team Ealge</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="images/hinh2.png" style="width:100%">
+  <div class="text">Team JC</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/hinh3.png" style="width:100%">
+  <div class="text">Team Death Note</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+		</div>
+		</div>
+	<div class="nd32"></div>
+	<div class="nd4">
+		<div class="nd5">
+		<img src="images/hinh4.png">
+		</div>
+		<div class="nd6">
+		<div class="textnd6">
+			<div class="textnd62">About</div>
+			<a style="font-size: 3em; font-weight: bold; color: #FFFFFF; position: relative; top: -100px; left:15px; ">About Me</a>
+			<div class="textnd61">Contrary to popular belief, Lorem Ipsum is not simply random<br>text. It has roots in a piece of classical Latin... </div>
+			<div class="nd61">
+				<div class="nd62">
+					<span>Name:<br>Date of birth:<br>Address:<br>Zip code<br>Email:<br>Phone:<br>
+					</span>
+				</div>
+				<div class="nd63">
+					<span>Nguyễn Quang Huy<br>July 09, 1997<br>Quận 7, TP.HCM<br>65758<br>01677174710huy@Gmail.com<br>0377-174-710<br>
+					</span>
+				</div>
+			</div>	
+			<div class="nd64"> <a><span style="color: #F9D100" >120</span> Project complete</a></div>
+				<div class="text65">
+				 <li><a href="#"> DOWLOAD CV</a></li>
+				</div>
+			</div>
+			</div>
+		</div>
+	<div class="nd7">
+		<div class="nd71">
+			<div class="textnd71">Resume</div>
+			<a style="font-size: 3em; font-weight: bold; color: #FFFFFF; position: relative; top: -100px; left: 400px; ">Resume</a>
+		</div>
+		<div class="nd72">
+			<div class="textnd72">Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</div>
+		</div>
+		
+	</div>
+	<div class="nd8">
+		<div class="nd81">
+			<div class="nd82">
+				<a style="font-size: 1.5em; font-weight: bold; color: #FFCE00; padding-left: 20px"> 2014-2015</a><br>
+				<a style="font-size: 1.4em; color: #FFFFFF;padding-left: 20px"> Master Degree of Design</a><br>
+				<a style="font-size: 0.5em; color: #FFFFFF; letter-spacing: 5px;padding-left: 20px "> CAMBRIDGE UNIVERSITY</a><br>
+				<a style="font-size: 1em; color: #AAAAAA;position:relative;left:20px;top:20px"> It is a long established fact that a reader will be nm distracted by the readable caontent of a page whwn looking at its layout. The poit of using Lorem Ipsum<br>is that it has a more-or-less normal distribution of a letters, as opposed to using 'Content here, content here', making it look like readable English.</a>
+			</div>
+			<div class="nd82">
+				<a style="font-size: 1.5em; font-weight: bold; color: #FFCE00; padding-left: 20px"> 2014-2015</a><br>
+				<a style="font-size: 1.4em; color: #FFFFFF;padding-left: 20px"> Art & Creative Directo</a><br>
+				<a style="font-size: 0.5em; color: #FFFFFF; letter-spacing: 5px;padding-left: 20px "> CAMBRIDGE UNIVERSITY</a><br>
+				<a style="font-size: 1em; color: #AAAAAA;position:relative;left:20px;top:20px"> It is a long established fact that a reader will be nm distracted by the readable caontent of a page whwn looking at its layout. The poit of using Lorem Ipsum<br>is that it has a more-or-less normal distribution of a letters, as opposed to using 'Content here, content here', making it look like readable English.</a>
+			</div>
+			<div class="nd82">
+				<a style="font-size: 1.5em; font-weight: bold; color: #FFCE00; padding-left: 20px"> 2014-2015</a><br>
+				<a style="font-size: 1.4em; color: #FFFFFF;padding-left: 20px"> Bachelor's Degree of C.A</a><br>
+				<a style="font-size: 0.5em; color: #FFFFFF; letter-spacing: 5px;padding-left: 20px "> CAMBRIDGE UNIVERSITY</a><br>
+				<a style="font-size: 1em; color: #AAAAAA;position:relative;left:20px;top:20px"> It is a long established fact that a reader will be nm distracted by the readable caontent of a page whwn looking at its layout. The poit of using Lorem Ipsum<br>is that it has a more-or-less normal distribution of a letters, as opposed to using 'Content here, content here', making it look like readable English.</a>
+			</div>
+			<div class="nd82">
+				<a style="font-size: 1.5em; font-weight: bold; color: #FFCE00; padding-left: 20px"> 2014-2015</a><br>
+				<a style="font-size: 1.4em; color: #FFFFFF;padding-left: 20px"> Wordpress Developer</a><br>
+				<a style="font-size: 0.5em; color: #FFFFFF; letter-spacing: 5px;padding-left: 20px "> CAMBRIDGE UNIVERSITY</a><br>
+				<a style="font-size: 1em; color: #AAAAAA;position:relative;left:20px;top:20px"> It is a long established fact that a reader will be nm distracted by the readable caontent of a page whwn looking at its layout. The poit of using Lorem Ipsum<br>is that it has a more-or-less normal distribution of a letters, as opposed to using 'Content here, content here', making it look like readable English.</a>
+			</div>
+			<div class="nd82">
+				<a style="font-size: 1.5em; font-weight: bold; color: #FFCE00; padding-left: 20px"> 2014-2015</a><br>
+				<a style="font-size: 1.4em; color: #FFFFFF;padding-left: 20px"> Diploma in Computer</a><br>
+				<a style="font-size: 0.5em; color: #FFFFFF; letter-spacing: 5px;padding-left: 20px "> CAMBRIDGE UNIVERSITY</a><br>
+				<a style="font-size: 1em; color: #AAAAAA;position:relative;left:20px;top:20px"> It is a long established fact that a reader will be nm distracted by the readable caontent of a page whwn looking at its layout. The poit of using Lorem Ipsum<br>is that it has a more-or-less normal distribution of a letters, as opposed to using 'Content here, content here', making it look like readable English.</a>
+			</div>
+			<div class="nd82">
+				<a style="font-size: 1.5em; font-weight: bold; color: #FFCE00; padding-left: 20px"> 2014-2015</a><br>
+				<a style="font-size: 1.4em; color: #FFFFFF;padding-left: 20px"> UX/UI Designer</a><br>
+				<a style="font-size: 0.5em; color: #FFFFFF; letter-spacing: 5px;padding-left: 20px "> CAMBRIDGE UNIVERSITY</a><br>
+				<a style="font-size: 1em; color: #AAAAAA;position:relative;left:20px;top:20px"> It is a long established fact that a reader will be nm distracted by the readable caontent of a page whwn looking at its layout. The poit of using Lorem Ipsum<br>is that it has a more-or-less normal distribution of a letters, as opposed to using 'Content here, content here', making it look like readable English.</a>
+			</div>
+		</div>
+	</div>
+	<div class="nd9">
+		<div class="textnd9">
+				 <li><a href="#">DOWNLOAD<span> CV</span></a></li>
+				</div>
+	</div>
+	<div class="nd10">
+		<div class="nd101">
+			<div class="textnd101">Services</div>
+			<a style="font-size: 3em; font-weight: bold; color: #FFFFFF; position: relative; top: -105px; left: 390px; ">Services</a>
+		</div>
+		<div class="nd102">
+			<div class="textnd72">Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</div>
+		</div>
+	</div>
+	<div class="nd11">
+		<div class="nd111">
+			<div class="nd112"></div>
+			<div class="nd112"></div>
+			<div class="nd112"></div>
+			<div class="nd112"></div>
+			<div class="nd112"></div>
+			<div class="nd112"></div>
+		</div>
+	<div class="nd12"></div>	
+	<div class="nd13">
+		<div class="nd131"></div>
+		<div class="nd131"></div>
+	</div>
+	<div class="nd14"></div>
+	<div class="nd15">
+		<div class="nd151"></div>
+		<div class="nd152"></div>
+		<div class="nd153"></div>
+		<div class="nd153"></div>
+		<div class="nd153"></div>
+		<div class="nd154"></div>
+		<div class="nd155"></div>
+	</div>
+	<div class="nd16"></div>
+	<div class="nd17">
+		<div class="nd171"></div>
+		<div class="nd172"></div>
+	</div>
+	<div class="nd18">
+		<div class="nd181"></div>
+		<div class="nd181"></div>
+		<div class="nd181"></div>
+		<div class="nd181"></div>
+	</div>
+	<div class="nd19"></div>
+</div>	
+</body>
+		<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+</html>
